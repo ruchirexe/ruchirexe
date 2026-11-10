@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm Ruchir 👋
 
-<!--
-**ruchirexe/ruchirexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Information Technology student at NJIT, graduating in January 2027, focused on Cloud Infrastructure, Cloud Operations, and DevOps.
 
-Here are some ideas to get you started:
+### 🔧 What I'm Working On
+- ☁️ Studying for the AWS Solutions Architect Associate (SAA-C03)
+- 🏗️ Gaining hands-on AWS infrastructure experience through my senior capstone
+- 🐳 Learning Docker, Linux, and infrastructure automation
+- 📊 Exploring observability, monitoring, and incident response
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies
+**Cloud:** AWS
+
+**Languages:** Python, SQL
+
+**Tools:** Linux, Docker, Git, GitHub Actions
+
+**Backend:** FastAPI, PostgreSQL
+
+### 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/ruchirpatel007/)
+- 🐦 [X / Twitter](https://x.com/ruchirbuilds)
+
+Always learning, building, and breaking things to understand how they work.
