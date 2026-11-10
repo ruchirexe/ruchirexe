@@ -1,4 +1,4 @@
-# Hey, I'm Ruchir 👋
+# Hey, I'm Ruchir
 
 I'm an Information Technology student at NJIT, graduating in January 2027, focused on Cloud Infrastructure, Cloud Operations, and DevOps.
 
